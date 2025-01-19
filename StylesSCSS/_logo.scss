@@ -1,0 +1,9 @@
+#logo {
+    position: relative;
+    left: 3rem;
+    top: 1rem;
+
+    &:hover {
+        transform: scale($hover-scale);
+    }
+}
